@@ -39,7 +39,6 @@ apis:
   - name: QWeather
     description: "Location-based weather data"
     humanURL: https://dev.qweather.com/en/
-    baseURL: https://dev.qweather.com/en/
     tags:
       - Weather
     properties:
